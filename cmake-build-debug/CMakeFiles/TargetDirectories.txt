@@ -1,0 +1,3 @@
+C:/Users/natal/Desktop/zadanieNatalia/cmake-build-debug/CMakeFiles/zadanieNatalia.dir
+C:/Users/natal/Desktop/zadanieNatalia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/natal/Desktop/zadanieNatalia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

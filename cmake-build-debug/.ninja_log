@@ -1,0 +1,10 @@
+# ninja log v6
+2	285	7903078588191172	build.ninja	696954b1bc914043
+7	1472	7903028917529845	CMakeFiles/zadanieNatalia.dir/src/main.cpp.obj	8c3ff77279a1ec06
+1472	1751	7903028932170755	zadanieNatalia.exe	8a87251481565f07
+34	1039	7903012903195046	CMakeFiles/zadanieNatalia.dir/external/glad/src/glad.c.obj	8ae503537666f946
+13	1229	7903018832156753	CMakeFiles/zadanieNatalia.dir/src/ObjLoader.cpp.obj	dc240a521183c32b
+16	1149	7903079083321452	CMakeFiles/zadanieNatalia.dir/external/glad/src/glad.c.obj	cc6948206c779d44
+11	1269	7903079083279893	CMakeFiles/zadanieNatalia.dir/src/ObjLoader.cpp.obj	8a34836afaebdb0c
+6	1484	7903079083228647	CMakeFiles/zadanieNatalia.dir/src/main.cpp.obj	7fecec0f06e85680
+1484	1951	7903079098011833	zadanieNatalia.exe	8d39ab64839e9a7a
